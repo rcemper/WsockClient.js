@@ -63,8 +63,10 @@ or in verbose mode
       Client Closed
       SAMPLES>
 
-Using the WebSocked Server in namesoace SAMPLES
-    ws://localhost:57772/csp/samples/Web.SocketTest.cls
+Using the WebSocket Server in namespace SAMPLES
+
+>>     ws://localhost:57772/csp/samples/Web.SocketTest.cls
+
 the replies look like this:
    
     Received: 'Welcome to Cache WebSocket. NameSpace: SAMPLES'
