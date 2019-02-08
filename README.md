@@ -6,7 +6,7 @@ consume the results.
 
 I used node-v6.16.0-x64.msi  and  cache610.node as Cache.node
 
-You provide a Global for input and get back a Global for output.
+You provide a Global for input:
 
      ^WsockIn="wss://echo.websocket.org/"
      ^WsockIn(0)=6
@@ -17,7 +17,7 @@ You provide a Global for input and get back a Global for output.
      ^WsockIn(5)="for replies"
      ^WsockIn(6)="exit"
 
-and with this echo server you get back a Global for output.
+and with this echo server you get back a Global as output
  
 you may call it from with class code or routine or command line
       
