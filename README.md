@@ -6,23 +6,6 @@ consume the results.
 
 I used node-v6.16.0-x64.msi  and  cache610.node as Cache.node
 
-You provide a Global for input and get back a Global for output.
-      ^WsockIn="wss://echo.websocket.org/"
-      ^WsockIn(0)=6
-      ^WsockIn(1)="Hello"
-      ^WsockIn(2)="World !"
-      ^WsockIn(3)="Robert"
-      ^WsockIn(4)="is waiting"
-      ^WsockIn(5)="for replies"
-      ^WsockIn(6)="exit"
-and with this echo server yopu get back a Global for output.
-      ^WsockOut(0)=6
-      ^WsockOut(1)="Hello"
-      ^WsockOut(2)="World !"
-      ^WsockOut(3)="Robert"
-      ^WsockOut(4)="is waiting"
-      ^WsockOut(5)="for replies"
-      ^WsockOut(6)="exit"
 
 you may call it from with class code or routine
       
@@ -32,7 +15,7 @@ you may call it from with class code or routine
       
 or in verbose mode
 
-      SAMPLES>$node "C:\Program Files\nodejs\samples\WSKdemo"
+      SAMPLES>$node "C:\Program Files\nodejs\samples\WsockDemo"
 
       start
       server:  wss://echo.websocket.org/
