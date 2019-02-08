@@ -64,4 +64,4 @@ or in verbose mode
       SAMPLES>
 
 
-I have to admit this was my first piece of cod to run in nodejs.
+I have to admit this was my first piece of code to run in nodejs.
