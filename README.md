@@ -18,7 +18,15 @@ You provide a Global for input:
      ^WsockIn(6)="exit"
 
 and with this echo server you get back a Global as output
- 
+
+     ^WsockOut(0)=6
+     ^WsockOut(1)="Hello"
+     ^WsockOut(2)="World !"
+     ^WsockOut(3)="Robert"
+     ^WsockOut(4)="is waiting"
+     ^WsockOut(5)="for replies"
+     ^WsockOut(6)="exit"
+
 you may call it from with class code or routine or command line
       
       kill ^WsockOut
@@ -54,3 +62,6 @@ or in verbose mode
 
       Client Closed
       SAMPLES>
+
+
+I have to admit this was my first piece of cod to run in nodejs.
