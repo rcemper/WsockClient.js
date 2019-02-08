@@ -63,5 +63,19 @@ or in verbose mode
       Client Closed
       SAMPLES>
 
+Using the WebSocked Server in namesoace SAMPLES
+    ws://localhost:57772/csp/samples/Web.SocketTest.cls
+the replies look like this:
 
+Received: Welcome to Cache WebSocket. NameSpace: SAMPLES'
+Received: 'Hello' (length=5) recieved on 08 Feb 2019 at 02:57:08PM NameSpace=SAMPLES'
+Received: 'World !' (length=7) recieved on 08 Feb 2019 at 02:57:08PM NameSpace=SAMPLES'
+Received: 'Robert' (length=6) recieved on 08 Feb 2019 at 02:57:08PM NameSpace=SAMPLES'
+Received: 'is waiting' (length=10) recieved on 08 Feb 2019 at 02:57:08PM NameSpace=SAMPLES'
+Received: 'for replies' (length=11) recieved on 08 Feb 2019 at 02:57:08PM NameSpace=SAMPLES'
+replies received:  6
+
+Client Closed
+
+    
 I have to admit this was my first piece of code to run in nodejs.
