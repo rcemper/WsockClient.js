@@ -1,4 +1,4 @@
-// JavaScript Document  
+# JavaScript Document  
 // get order from Global ^WsockIn
 //       ^WsockIn="wss://echo.websocket.org/"
 //       ^WsockIn(0)=6
