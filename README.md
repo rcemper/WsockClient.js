@@ -1,4 +1,9 @@
-This is a small example to demonstrate the wide range that is openend by making use of the power embedded in Node.js and its adapter to Caché. Node / JavaScript have wide reputation to work as a WebSocket client. By using the Caché adapter it becomes easy to control it and consume the results as a Client for WebSocket Servers and to collect the replies in Caché, IRIS, ..
+This is to demonstrate the wide range that is openend by making use of the power embedded in Node.js and its adapter to Caché.  
+Node / JavaScript have wide reputation to work as a WebSocket client.  
+By using the Caché adapter it becomes easy to control it and to consume the results as a   
+Client for WebSocket Servers and to collect the replies in Caché, Ensemble, ..
+
+#### this an coding example working on Caché 2016.2 and will not be kept in synch with new versions nor covered by InterSystems Support ####
 
 I used node-v6.16.0-x64.msi  and  cache610.node as Cache.node
 
