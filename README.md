@@ -1,7 +1,7 @@
 ~~~
  This is a coding example working on Cache 2018.1.3  
  It will not be kept in synch with new versions      
- It is also NOT covered by InterSystems Support !   
+ It is also NOT serviced by InterSystems Support !   
 ~~~  
 
 It will demonstrate the wide range that is openend by making use   
