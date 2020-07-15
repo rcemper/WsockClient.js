@@ -4,7 +4,8 @@
  It is also NOT covered by InterSystems Support !   
 ~~~  
 
-It will demonstrate the wide range that is openend by making use of the power embedded in Node.js and its adapter to Caché.  
+It will demonstrate the wide range that is openend by making use   
+of the power embedded in Node.js and its adapter to Caché.  
 Node / JavaScript have wide reputation to work as a WebSocket client.  
 By using the Caché adapter it becomes easy to control it and to consume the results as a   
 Client for WebSocket Servers and to collect the replies in Caché, Ensemble, ..   
