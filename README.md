@@ -1,7 +1,7 @@
 ***  
-This an coding example working on Cache 2018.1.3  
-and will not be kept in synch with new versions      
-It is no covered by InterSystems Support !   
+> This an coding example working on Cache 2018.1.3  
+> and will not be kept in synch with new versions      
+> It is no covered by InterSystems Support !   
 ***  
 
 It will demonstrate the wide range that is openend by making use of the power embedded in Node.js and its adapter to Caché.  
